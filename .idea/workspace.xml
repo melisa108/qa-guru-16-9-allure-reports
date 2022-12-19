@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8155545c-85ea-46e2-a21a-aa353572fa0c" name="Changes" comment="add build.gradle">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/test.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/guru/allure/AttachmentsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/guru/allure/LabelsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/guru/allure/SelenideTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/guru/allure/StepsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/qa/guru/allure/WebSteps.java" afterDir="false" />
+    <list default="true" id="8155545c-85ea-46e2-a21a-aa353572fa0c" name="Changes" comment="modified java version in test.yaml">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/test.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/test.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -215,7 +210,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671482881557</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add lecture's data">
+      <created>1671488616284</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671488616284</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add test.yaml for CI">
+      <created>1671488636004</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671488636004</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modified java version in test.yaml">
+      <created>1671490866332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1671490866332</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -231,6 +247,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add build.gradle" />
-    <option name="LAST_COMMIT_MESSAGE" value="add build.gradle" />
+    <MESSAGE value="add lecture's data" />
+    <MESSAGE value="add test.yaml for CI" />
+    <MESSAGE value="modified java version in test.yaml" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified java version in test.yaml" />
   </component>
 </project>
