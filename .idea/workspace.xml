@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8155545c-85ea-46e2-a21a-aa353572fa0c" name="Changes" comment="modified java version in test.yaml" />
+    <list default="true" id="8155545c-85ea-46e2-a21a-aa353572fa0c" name="Changes" comment="modified gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -236,7 +238,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671490866332</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="modified yaml">
+      <created>1671493346378</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671493346378</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modified gitignore">
+      <created>1671569714439</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1671569714439</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -255,6 +271,8 @@
     <MESSAGE value="add lecture's data" />
     <MESSAGE value="add test.yaml for CI" />
     <MESSAGE value="modified java version in test.yaml" />
-    <option name="LAST_COMMIT_MESSAGE" value="modified java version in test.yaml" />
+    <MESSAGE value="modified yaml" />
+    <MESSAGE value="modified gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="modified gitignore" />
   </component>
 </project>
